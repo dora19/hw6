@@ -50,3 +50,23 @@
 
 Выбранные слова - существительные, слово "крик" употребляется с характеризующими словами (наречиями, прилагательными, длинными описательными кострукциями), слово "трон" чаще всего используется в контексте принадлежности (наследование трона и законное обладание), слово "собеседник" используется вместе с добавочной информацией (именем собеседника и  деепричастным оборотом).
 
+# Г
+## Цвет волшебства
+
+![https://github.com/dora19/hw6/blob/master/%D1%82%D1%80%D0%BE%D0%BD.%D0%BF%D0%BB%D0%BE%D1%82.JPG](https://github.com/dora19/hw6/blob/master/%D1%82%D1%80%D0%BE%D0%BD.%D0%BF%D0%BB%D0%BE%D1%82.JPG)
+
+![https://github.com/dora19/hw6/blob/master/%D1%81%D0%BE%D0%B1%D0%B5%D1%81%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA.%D0%BF%D0%BB%D0%BE%D1%82.JPG](https://github.com/dora19/hw6/blob/master/%D1%81%D0%BE%D0%B1%D0%B5%D1%81%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA.%D0%BF%D0%BB%D0%BE%D1%82.JPG)
+
+![https://github.com/dora19/hw6/blob/master/%D0%BA%D1%80%D0%B8%D0%BA.%D0%BF%D0%BB%D0%BE%D1%82.JPG](https://github.com/dora19/hw6/blob/master/%D0%BA%D1%80%D0%B8%D0%BA.%D0%BF%D0%BB%D0%BE%D1%82.JPG)
+
+Слово "трон" используется в середине произведения, "собеседник" - в начале и в середине, "крик" - в начале и ближе к середине произведения.
+
+## Анна Каренина
+
+![https://github.com/dora19/hw6/blob/master/знакомство.плот.JPG](https://github.com/dora19/hw6/blob/master/знакомство.плот.JPG)
+
+![https://github.com/dora19/hw6/blob/master/%D0%BD%D0%B5%D0%B2%D0%B5%D1%81%D1%82%D1%8B.%D0%BF%D0%BB%D0%BE%D1%82.JPG](https://github.com/dora19/hw6/blob/master/%D0%BD%D0%B5%D0%B2%D0%B5%D1%81%D1%82%D1%8B.%D0%BF%D0%BB%D0%BE%D1%82.JPG)
+
+![https://github.com/dora19/hw6/blob/master/%D0%BE%D1%82%D1%86%D1%8B.%D0%BF%D0%BB%D0%BE%D1%82.JPG](https://github.com/dora19/hw6/blob/master/%D0%BE%D1%82%D1%86%D1%8B.%D0%BF%D0%BB%D0%BE%D1%82.JPG)
+
+Слово "знакомство" используется во всех частях текста, "отцы" - в самом начале, в середине и в самом конце, "невесты" - в середине произведения.
